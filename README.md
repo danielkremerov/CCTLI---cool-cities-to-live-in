@@ -3,7 +3,7 @@ WebApp centered around spatial data visualization using Leaflet JS and driven by
 
 ![Screenshot1](https://github.com/danielkremerov/CCTLI---cool-cities-to-live-in/blob/master/example%20screenshots/screenshot1.png)
 
-![Screenshot2](https://github.com/danielkremerov/CCTLI---cool-cities-to-live-in/blob/master/example%20screnshots/screenshot2.png)
+![Screenshot2](https://github.com/danielkremerov/CCTLI---cool-cities-to-live-in/blob/master/example%20screenshots/screnshot2.png)
 
 ![Screenshot3](https://github.com/danielkremerov/CCTLI---cool-cities-to-live-in/blob/master/example%20screenshots/screenshot3.png)
 
